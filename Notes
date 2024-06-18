@@ -1,0 +1,13 @@
+1. Informatica Intelligent Cloud Services(IICS) is an integration platform as a service (iPaas)
+2. It has multiple services underneath - Data Quality, Data Integration, Data Profiling etc
+
+Data Integration Service can be used to build and run advanced, complex integrations using pre-built functions and templates for mappings and transformations
+
+--IDMC Architecture
+  1. Informatica cloud
+  2. Secure agent
+  3. Informatica Cloud DWH
+
+- What is informatica secure Agent
+  Informatica secure agent runs all the tasks and establishes the communication between informatica cloud services and your organization and helps in transfers
+  data between source and target.

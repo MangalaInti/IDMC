@@ -1,0 +1,19 @@
+--IICS|Replication Vs Synchronization task
+
+1.Replication means make an exact copy of source/target
+  1.Use case #
+     1. Business Intelligence/ Analytical purpose reporting
+  2. Implementation
+     1. Either full data replication source to target
+     2. Incremental data replication source to target
+
+1. Whereas, the synchornization keep up-to-date in target
+  1.use case#
+     1. To ensure accurate, secure, compliant data in place target systems        - cleaned, checked for errors, duplication and consistency before        they put to use
+     2. Implementation
+        1. Individual table by synchronized
+           1. Insert
+           2. Update
+           3. Upsert
+           4. Delete
+

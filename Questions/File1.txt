@@ -1,0 +1,16 @@
+- Informatica Cloud is an IPaas solution - Integration platform as a service
+- Replication task provides built-in incremental processing
+- Dynamic linking is supporting in mappings
+- Hierarchy Parser transformation converts hierarchical input into relational output
+- Hierarchy Parser is used to read which of the below input types - JSON, XML
+- Indirect loading can be implemented using which property in the source transformation - File List
+- Reset target option in Replication will enable you to drop the target table in iics
+- Assignment task will allows you to set a value to a field in IICS advanced taskflow
+- An In-Out parameter can change each time a task is run
+- Write is not valid  user permission in IICS
+- Unconnected look up returns only one output field.
+- Database Partitioning method is NOT supported in Informatica Cloud
+- Router transformation has two output groups defined. The first group has condition as Sales > '5000' and the second group has condition Sales > '10000'.
+  Now a record with Sales = '13500' is returned from which output group - Both First and Second Output Group
+- 
+ 
